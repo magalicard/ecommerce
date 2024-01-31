@@ -1,1 +1,1 @@
-#vProyecto Ecommerce en EdTeam con React
+#Proyecto Ecommerce en EdTeam con React
